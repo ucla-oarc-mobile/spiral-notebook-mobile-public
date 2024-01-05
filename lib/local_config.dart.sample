@@ -1,0 +1,14 @@
+// Local Config Variables SAMPLE
+// Copy as 'local_config.dart' in this folder.
+// Uncomment the variables and update this config for your project.
+
+// API URL
+// const eqisURL = 'https://example.com/eqis/api';
+
+// API Assets base URL
+// const serverAssetsRootURL = 'https://example.com/assets';
+
+// In-App Data Version
+// change this value when any changes are made to the data cache,
+// or when the api gets changed.
+// const currentAppDataVersion = '1.0';

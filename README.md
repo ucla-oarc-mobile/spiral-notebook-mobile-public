@@ -5,6 +5,10 @@ The Spiral Notebook project mobile app, built with Flutter.
 - [How to Install](#setting-up-the-spiral-notebook-flutter-project)
 - [Project Reference](#project-reference)
 
+Other repositories associated with this project:
+- Web application: https://github.com/ucla-oarc-mobile/spiral-notebook-web-public
+- Server: https://github.com/ucla-oarc-mobile/spiral-notebook-server-public
+
 ## Project Reference
 
 - Platform: Flutter
